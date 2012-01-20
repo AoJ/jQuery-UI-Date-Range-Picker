@@ -1,0 +1,4 @@
+Už mùžeš pøistoupit k datùm pøes $(input).data('datePickersDates')
+	
+	vrátí se ti object
+	{ start: *data.js object*, end: *data.js object* }
